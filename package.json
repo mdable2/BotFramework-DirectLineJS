@@ -5,7 +5,7 @@
   "files": [
     "dist/**/*",
     "lib/**/*",
-    "/src"
+    "./src"
   ],
   "main": "lib/directLine.js",
   "types": "lib/directLine.d.ts",
