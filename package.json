@@ -3,9 +3,7 @@
   "version": "0.0.8",
   "description": "Client library for the Microsoft Bot Framework Direct Line 3.0 protocol",
   "files": [
-    "dist/**/*",
-    "lib/**/*",
-    "./src"
+    "*"
   ],
   "main": "lib/directLine.js",
   "types": "lib/directLine.d.ts",
